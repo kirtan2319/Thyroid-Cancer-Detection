@@ -1,2 +1,2 @@
-# Thyroid Cancer Detection
- Fairness and Bias in Thyroid Cancer Detection
+# Thyroid Ccancer Detection
+ Fairness and Bias on Thyroid cancer Detection

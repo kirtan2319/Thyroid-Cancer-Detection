@@ -1,0 +1,12 @@
+{
+    "Thy": {
+        "image_feature_path": "C:\\Users\\saium\\Desktop\\thyroid\\pkls\\features.pkl",
+        "pickle_train_path": "C:\\Users\\saium\\Desktop\\thyroid\\pkls\\train_images.pkl",
+        "pickle_val_path": "C:\\Users\\saium\\Desktop\\thyroid\\pkls\\val_images.pkl",
+        "pickle_test_path": "C:\\Users\\saium\\Desktop\\thyroid\\pkls\\test_images.pkl",
+        
+        "train_meta_path": "C:\\Users\\saium\\Desktop\\thyroid\\split\\new_train.csv",
+        "val_meta_path": "C:\\Users\\saium\\Desktop\\thyroid\\split\\new_val.csv",
+        "test_meta_path": "C:\\Users\\saium\\Desktop\\thyroid\\split\\new_test.csv"
+    }
+}

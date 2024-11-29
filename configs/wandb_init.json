@@ -1,0 +1,10 @@
+{
+    "project" : "BTP",
+    "name": "baseline",
+    "dir": "./output/",
+    "entity": "saiumajayanthbadisa-iit-indore",
+    "allow_val_change": true,
+    "sync_tensorboard": true,
+    "tags": ["all"],
+    "mode": "online"
+}
